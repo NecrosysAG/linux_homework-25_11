@@ -1,0 +1,7 @@
+   0 vi /tmp/file.txt
+   1 df -h | head -3 >> /tmp/file.txt
+   2 cd /tmp
+   3 chmod 624 file.txt
+   4 chmod 224 file.txt
+   5 chmod 221 file.txt
+   6 history > linux_homework.txt
